@@ -1,4 +1,4 @@
-group "com.maslick.{group}"
+group "com.maslick.${group}"
 version = "${version}"
 
 
